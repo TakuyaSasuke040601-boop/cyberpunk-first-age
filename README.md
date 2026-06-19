@@ -6,12 +6,6 @@
 "Trong thành phố không còn anh hùng. Chỉ còn Rider."
 
 
----
-
-### *Cốt truyện*
-Năm 2088, Sài Gòn bị tập đoàn NEO-ZAIA kiểm soát.
-DyShinzou - Rider tự do cuối cùng, "ride" xuyên thành phố để giao dữ liệu cho phe kháng chiến.
-
 ### *Tính năng hiện tại - Day 4*
 - [x] Nhân vật DyShinzou Base Form
 - [x] Hệ thống Henshin - Bấm H để biến hình
