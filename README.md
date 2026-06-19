@@ -14,10 +14,11 @@
 - [x] Fix 10 lỗi VSCode + Push code lên GitHub
 - [x] From "cái tăm xanh" to Game Dev 💙
 
-## 🚀 Roadmap TC Zone
-- *Day 3:* Nhân vật di chuyển + nhạc nền 8-bit
-- *Day 4:* Bắn đạn + quái vật
-- *Day 5:* Build thành file.exe
+### 🚀 Roadmap TC Zone 
+- Day 4: Vẽ lại DyShinzou chibi 32x32 vibe MapleStory + Thêm nhảy
+- Day 5: Bắn đạn + quái vật cyberpunk 
+- Day 6: Nhạc nền 8-bit + SFX
+- Day 7: Build thành file.exe
 
 ## 💻 Chạy game
 ```bash
