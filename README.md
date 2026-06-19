@@ -1,18 +1,32 @@
-# CYBERPUNK: FIRST AGE 🎮
+# Cyber Rider: DyShinzou 2088 🦗💨
 
-"Kỷ nguyên đầu tiên của DyShinzou" - Một lập trình viên từ số 0 học làm game.
+*Một tựa game 2D Action Platformer do DyShinzou Games phát triển.*
+*Lấy cảm hứng từ Kamen Rider + Cyberpunk + MapleStory.*
+
+"Trong thành phố không còn anh hùng. Chỉ còn Rider."
 
 
-## 🎯 Day 2: Cửa sổ game đầu tiên
-- [x] Cài Python 3.12 + Pygame thành công
-- [x] Chạy được cửa sổ game 800x600 màu neon
-- [x] Push code lên Github bằng Git
+---
 
-## 🚀 Roadmap TC Zone
-- *Day 3:* Nhân vật di chuyển + nhạc nền 8-bit
-- *Day 4:* Bắn đạn + quái vật
-- *Day 5:* Build thành file.exe
+### *Cốt truyện*
+Năm 2088, Sài Gòn bị tập đoàn NEO-ZAIA kiểm soát.
+DyShinzou - Rider tự do cuối cùng, "ride" xuyên thành phố để giao dữ liệu cho phe kháng chiến.
 
-## 💻 Chạy game
-```bash
-python game.py
+### *Tính năng hiện tại - Day 4*
+- [x] Nhân vật DyShinzou Base Form
+- [x] Hệ thống Henshin - Bấm H để biến hình
+- [x] Di chuyển cơ bản
+- [ ] Rider Form + Skill Rider Kick - Coming Day 5
+
+### *Cách chơi*
+1. Clone repo này về
+2. Chạy python game.py
+3. Bấm H để Henshin!
+
+### *Dev Log*
+- *Day 0:* Từ số 0 học Git, Python
+- *Day 3:* Fix 10 lỗi VSCode, game chạy được
+- *Day 4:* Có nhân vật riêng + Nút Henshin
+
+*Dev:* DyShinzou
+*Status:* Đang phát triển
