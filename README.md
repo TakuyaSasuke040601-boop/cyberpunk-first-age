@@ -6,7 +6,7 @@
 "Trong thành phố không còn anh hùng. Chỉ còn Rider."
 
 
-### *Tính năng hiện tại - Day 4*
+### *Tính năng hiện tại - Day 5*
 - [x] Nhân vật DyShinzou Base Form
 - [x] Hệ thống Henshin - Bấm H để biến hình
 - [x] Di chuyển cơ bản
@@ -16,6 +16,7 @@
 1. Clone repo này về
 2. Chạy python game.py
 3. Bấm H để Henshin!
+4. Day 5: Base form hoodie + Rider LED xanh. Henshin mượt.
 
 ### *Dev Log*
 - *Day 0:* Từ số 0 học Git, Python
